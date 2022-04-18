@@ -1,4 +1,5 @@
-# T2 - Take_2: After a first-edition failure, I say try a second time and take 2 boards home with ya
+# T2 - Take_2: 
+After a first-edition failure, I say try a second time and take 2 boards home with ya
 
 * Keyboard Maintainer: [Ryker-Glenn](https://github.com/Ryker-Glenn)
 
